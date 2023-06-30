@@ -1,0 +1,22 @@
+﻿  test.c
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(9,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(9,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(11,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(13,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(15,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(15,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(17,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(17,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(19,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(19,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(21,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(21,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(23,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(23,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(25,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(25,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(27,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(27,9): message : 请考虑在格式字符串中使用“%zd”
+  test_6_15.vcxproj -> D:\Valuable\Study\C\test_6_15\x64\Debug\test_6_15.exe

@@ -1,0 +1,7 @@
+﻿  m3.cpp
+D:\可用文件\研究生\C++\Project3\m3.cpp(13,2): error C2065: “cout”: 未声明的标识符
+D:\可用文件\研究生\C++\Project3\m3.cpp(14,2): error C2065: “cin”: 未声明的标识符
+D:\可用文件\研究生\C++\Project3\m3.cpp(17,3): error C2065: “cin”: 未声明的标识符
+D:\可用文件\研究生\C++\Project3\m3.cpp(19,3): error C2065: “cout”: 未声明的标识符
+D:\可用文件\研究生\C++\Project3\m3.cpp(19,26): error C2065: “endl”: 未声明的标识符
+D:\可用文件\研究生\C++\Project3\m3.cpp(20,3): error C2065: “cout”: 未声明的标识符

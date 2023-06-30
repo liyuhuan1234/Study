@@ -1,0 +1,4 @@
+﻿  contact.c
+D:\Valuable\Study\C\contact\contact\contact.c(202,9): warning C4477: “printf”: 格式字符串“%-5d”需要类型“int”的参数，但可变参数 2 拥有了类型“char *”
+D:\Valuable\Study\C\contact\contact\contact.c(202,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "char *" 的参数 2 冲突
+  contact.vcxproj -> D:\Valuable\Study\C\contact\x64\Debug\contact.exe

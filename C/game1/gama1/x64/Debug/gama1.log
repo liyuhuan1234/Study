@@ -1,0 +1,5 @@
+﻿  game.c
+D:\Valuable\Study\C\gama1\gama1\game.c(82,7): warning C4013: “rand”未定义；假设外部返回 int
+  test.c
+  正在生成代码...
+  gama1.vcxproj -> D:\Valuable\Study\C\gama1\x64\Debug\gama1.exe

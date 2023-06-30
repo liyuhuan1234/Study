@@ -1,0 +1,7 @@
+﻿  test.c
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(861,10): error C2057: 应输入常量表达式
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(861,11): error C2466: 不能分配常量大小为 0 的数组
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(861,13): error C2057: 应输入常量表达式
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(861,14): error C2466: 不能分配常量大小为 0 的数组
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(861,14): error C2087: “arr”: 缺少下标
+D:\Valuable\Study\C\test_6_15\test_6_15\test.c(861,6): error C2133: “arr”: 未知的大小

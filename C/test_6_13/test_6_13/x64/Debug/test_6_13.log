@@ -1,0 +1,4 @@
+﻿  test.c
+D:\Valuable\Study\C\test_6_13\test_6_13\test.c(502,2): warning C4013: “qsort”未定义；假设外部返回 int
+D:\Valuable\Study\C\test_6_13\test_6_13\test.c(498,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  test_6_13.vcxproj -> D:\Valuable\Study\C\test_6_13\x64\Debug\test_6_13.exe

@@ -1,0 +1,16 @@
+﻿  源.cpp
+D:\可用文件\研究生\C++\Project1\packages\pthreads.2.9.1.4\build\native\include\pthread.h(320,17): error C2011: “timespec”:“struct”类型重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\time.h(43): message : 参见“timespec”的声明
+D:\可用文件\研究生\C++\Project1\源.cpp(18,37): error C2440: “=”: 无法从“PrintHello::thread *”转换为“thread_data *”
+D:\可用文件\研究生\C++\Project1\源.cpp(18,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\可用文件\研究生\C++\Project1\源.cpp(28,12): error C2133: “threads”: 未知的大小
+D:\可用文件\研究生\C++\Project1\源.cpp(29,21): error C2133: “td”: 未知的大小
+D:\可用文件\研究生\C++\Project1\源.cpp(33,29): error C2059: 语法错误:“;”
+D:\可用文件\研究生\C++\Project1\源.cpp(33,34): error C2059: 语法错误:“)”
+D:\可用文件\研究生\C++\Project1\源.cpp(34,49): error C2059: 语法错误:“;”
+D:\可用文件\研究生\C++\Project1\源.cpp(37,24): error C2065: “thread”: 未声明的标识符
+D:\可用文件\研究生\C++\Project1\源.cpp(44,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\可用文件\研究生\C++\Project1\源.cpp(44,2): error C2365: “pthread_exit”: 重定义；以前的定义是“函数”
+D:\可用文件\研究生\C++\Project1\packages\pthreads.2.9.1.4\build\native\include\pthread.h(950): message : 参见“pthread_exit”的声明
+D:\可用文件\研究生\C++\Project1\源.cpp(45,1): error C2059: 语法错误:“}”
+D:\可用文件\研究生\C++\Project1\源.cpp(45,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
