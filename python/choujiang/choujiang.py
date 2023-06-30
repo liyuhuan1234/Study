@@ -1,0 +1,23 @@
+
+# -*- coding: gbk -*
+
+from flask import Flask,render_template
+from random import randint
+
+app=Flask(__name__)
+
+hero=[
+    'Àî°×','º«ĞÅ','ËïÎò¿Õ','¹ØÓğ','ÀîĞÅ','ËïÉĞÏã','ÀÏ·ò×Ó','æ§¼º','Ğ¡ÇÇ','Áõìø','Áõ±¸','Ëï²ß',
+    'ÏÄÂåÌØ','Öî¸ğÁÁ','Ñş','õõ²õ','ÄÈ¿ÉÂ¶Â¶','²ÌÎÄ¼§','ÏÄºîª','Ëïë÷','Ôª¸è','Óİ¼§','°¬ÁÕ'
+    ]
+
+@app.route('/index')
+def index():
+    return render_template('index.html',hero=hero)
+
+@app.route('/choujiang')
+def choujiang():
+    num=randint(0,len(hero)-1)
+    return render_template('index.html',hero=hero,h=hero[num])
+
+app.run(debug=True)
